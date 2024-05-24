@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/hero.png)
+# ![Django CRUD App Group Project](./assets/hero.png)
 
 ## About
 

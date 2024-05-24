@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Project Planning Deliverable](./assets/hero.png)
+# ![Django CRUD App Group Project - Project Planning Deliverable](./assets/hero.png)
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Group Project Individual Contributor Requirements](./assets/hero.png)
+# ![Django CRUD App Group Project - Group Project Individual Contributor Requirements](./assets/hero.png)
 
 ## Individual contributor requirements
 
