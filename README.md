@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![[tktk Module Name]](./assets/hero.png)
 
 ## About
 
