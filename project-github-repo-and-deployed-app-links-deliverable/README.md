@@ -1,0 +1,46 @@
+# ![Django CRUD App Project - Project GitHub Repo and Deployed App Links Deliverable](./assets/hero.png)
+
+## Contents
+
+**Deliverable details**:
+
+- GitHub repo deliverable
+- Deployed app link deliverable
+
+**Submitting deliverables**:
+
+- Submitting your deliverables
+
+## GitHub repo deliverable
+
+After your project proposal has been approved, your team will need to designate someone to set up the main GitHub repo for your project.
+
+> 🚨 As a reminder, you should use the same repo or keep all the repos you use for the entire duration of your project to meet the project requirements.
+
+## Deployed app deliverable
+
+During project week, your team will deploy the project so that others are able to use it on the internet! Follow the [tktk Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/tktk/) to deploy your project.
+
+## Submitting your deliverables
+
+Follow the guidelines below to submit your deliverables for this project.
+
+### Submitting your GitHub repo link
+
+Your team will submit a single link to the main ***public*** GitHub repo that you are using for your Django CRUD App Group Project below in the following format:
+
+```plaintext
+GitHub repo link: <link>
+```
+
+Replacing `<link>` (including the `<` and `>`) with a link to your GitHub repo.
+
+### Submitting your deployed app link
+
+Deploy your project by following the guide above. Your team will submit a single link to your deployed app in the following format:
+
+```plaintext
+Deployed project link: <link>
+```
+
+Replacing `<link>` (including the `<` and `>`) with a link to your deployed app.
