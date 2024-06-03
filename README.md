@@ -40,6 +40,10 @@ The below content may be useful resources if you decide to customize this conten
 
 [Project Deployed App Link Deliverable](./project-deployed-app-link-deliverable/README.md)
 
+[Project Planning and GitHub Repo Link Deliverable](./project-planning-and-github-repo-link-deliverable/README.md)
+
+[Project GitHub Repo and Deployed App Links Deliverable](./project-github-repo-and-deployed-app-links-deliverable/README.md)
+
 ## Internal resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
