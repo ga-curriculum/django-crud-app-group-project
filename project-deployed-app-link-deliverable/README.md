@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Follow the [Flask Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/django-deployment/) to deploy your back-end Flask application.
+Follow the [Django Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/django-deployment/) to deploy your back-end Django application.
 
 ## Submitting your deployed app link
 

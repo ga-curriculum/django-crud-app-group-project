@@ -19,7 +19,7 @@ After your project proposal has been approved, your team will need to designate 
 
 ## Deployed app deliverable
 
-Follow the [Flask Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/django-deployment/) to deploy your back-end Flask application.
+Follow the [Django Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/django-deployment/) to deploy your back-end Django application.
 
 ## Submitting your deliverables
 
